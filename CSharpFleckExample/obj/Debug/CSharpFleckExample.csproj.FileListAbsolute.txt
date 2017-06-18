@@ -1,0 +1,10 @@
+C:\Git\Desktop\CSharpFleckExample\CSharpFleckExample\bin\Debug\CSharpFleckExample.exe.config
+C:\Git\Desktop\CSharpFleckExample\CSharpFleckExample\bin\Debug\CSharpFleckExample.exe
+C:\Git\Desktop\CSharpFleckExample\CSharpFleckExample\bin\Debug\CSharpFleckExample.pdb
+C:\Git\Desktop\CSharpFleckExample\CSharpFleckExample\obj\Debug\CSharpFleckExample.csprojResolveAssemblyReference.cache
+C:\Git\Desktop\CSharpFleckExample\CSharpFleckExample\obj\Debug\CSharpFleckExample.Form1.resources
+C:\Git\Desktop\CSharpFleckExample\CSharpFleckExample\obj\Debug\CSharpFleckExample.Properties.Resources.resources
+C:\Git\Desktop\CSharpFleckExample\CSharpFleckExample\obj\Debug\CSharpFleckExample.csproj.GenerateResource.Cache
+C:\Git\Desktop\CSharpFleckExample\CSharpFleckExample\obj\Debug\CSharpFleckExample.exe
+C:\Git\Desktop\CSharpFleckExample\CSharpFleckExample\obj\Debug\CSharpFleckExample.pdb
+C:\Git\Desktop\CSharpFleckExample\CSharpFleckExample\bin\Debug\Fleck.dll
