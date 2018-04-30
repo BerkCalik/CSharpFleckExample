@@ -1,4 +1,3 @@
 
-http://berkcalik.com/c-fleck-ile-basit-websocket-server-uygulamasi/
-
+Fleck Kütüphanesi İle Basit Bir Web Socket Server Uygulaması
 
